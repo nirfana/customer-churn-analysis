@@ -1,4 +1,4 @@
-# Milestones Project: Customer Churn Analysis for DigiBank
+Customer Churn Analysis for DigiBank
 
 This repository contains the milestones project completed as part of the FTDS Hacktiv8 program. The project was undertaken under the guidance of Hacktiv8 and addresses the following scenario:
 
